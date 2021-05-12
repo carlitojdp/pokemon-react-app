@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/pokemon-react-app/static/js/main.13de3ade.chunk.js",
+    "main.js.map": "/pokemon-react-app/static/js/main.13de3ade.chunk.js.map",
+    "runtime-main.js": "/pokemon-react-app/static/js/runtime-main.b881b960.js",
+    "runtime-main.js.map": "/pokemon-react-app/static/js/runtime-main.b881b960.js.map",
+    "static/js/2.7bcf40b2.chunk.js": "/pokemon-react-app/static/js/2.7bcf40b2.chunk.js",
+    "static/js/2.7bcf40b2.chunk.js.map": "/pokemon-react-app/static/js/2.7bcf40b2.chunk.js.map",
+    "index.html": "/pokemon-react-app/index.html",
+    "static/js/2.7bcf40b2.chunk.js.LICENSE.txt": "/pokemon-react-app/static/js/2.7bcf40b2.chunk.js.LICENSE.txt",
+    "static/media/aboutPokeball.f2f3277f.png": "/pokemon-react-app/static/media/aboutPokeball.f2f3277f.png",
+    "static/media/archen.8c48a620.png": "/pokemon-react-app/static/media/archen.8c48a620.png",
+    "static/media/archeops.aa5aa618.png": "/pokemon-react-app/static/media/archeops.aa5aa618.png",
+    "static/media/arrw-l.64f083a3.png": "/pokemon-react-app/static/media/arrw-l.64f083a3.png",
+    "static/media/arrw-r.ab9d1ec1.png": "/pokemon-react-app/static/media/arrw-r.ab9d1ec1.png",
+    "static/media/bewear.ba42bcbf.png": "/pokemon-react-app/static/media/bewear.ba42bcbf.png",
+    "static/media/cinccino.65fde9f4.png": "/pokemon-react-app/static/media/cinccino.65fde9f4.png",
+    "static/media/corsola.92944274.png": "/pokemon-react-app/static/media/corsola.92944274.png",
+    "static/media/cosmog.9d93319c.png": "/pokemon-react-app/static/media/cosmog.9d93319c.png",
+    "static/media/garbodor.d266e5d4.png": "/pokemon-react-app/static/media/garbodor.d266e5d4.png",
+    "static/media/gothita.2fd96c17.png": "/pokemon-react-app/static/media/gothita.2fd96c17.png",
+    "static/media/mincinno.8ad7ba4c.png": "/pokemon-react-app/static/media/mincinno.8ad7ba4c.png",
+    "static/media/pokemonBg.c18d167e.png": "/pokemon-react-app/static/media/pokemonBg.c18d167e.png",
+    "static/media/trubbish.1e0e38cf.png": "/pokemon-react-app/static/media/trubbish.1e0e38cf.png",
+    "static/media/xurkitree.a03afd93.png": "/pokemon-react-app/static/media/xurkitree.a03afd93.png",
+    "static/media/zoroark.36fd8076.png": "/pokemon-react-app/static/media/zoroark.36fd8076.png",
+    "static/media/zorua.21667fe1.png": "/pokemon-react-app/static/media/zorua.21667fe1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b881b960.js",
+    "static/js/2.7bcf40b2.chunk.js",
+    "static/js/main.13de3ade.chunk.js"
+  ]
+}
