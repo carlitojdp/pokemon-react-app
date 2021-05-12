@@ -4,7 +4,7 @@ export const SlideContainer = styled(animated.div)`
   width: 100%;
   min-height: 620px;
   height: 100%;
-  max-height: 960px;
+  ${"" /* max-height: 960px; */}
   display: flex;
   flex-direction: column;
   justify-content: center;
